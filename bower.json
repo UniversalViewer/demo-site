@@ -1,0 +1,18 @@
+{
+  "name": "Demo Site",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UniversalViewer/demo-site"
+  },
+  "authors": [
+    "edsilv <e.silverton@gmail.com>"
+  ],
+  "ignore": [
+    "build",
+    "tests",
+    "Gruntfile.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

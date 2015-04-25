@@ -1,0 +1,8 @@
+{
+  "name": "demo-site",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "grunt-contrib-connect": "~0.8.0"
+  }
+}
