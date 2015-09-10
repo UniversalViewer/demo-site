@@ -13,6 +13,8 @@
     "tests",
     "Gruntfile.js"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "uv": "~1.5.8"
+  },
   "devDependencies": {}
 }
